@@ -1,0 +1,24 @@
+# F-Droid repository of Simon Pena's apps. Options:
+# https://gitlab.com/fdroid/fdroidserver/-/blob/master/examples/config.yml
+
+repo_url: https://spenap.github.io/fdroid/repo
+repo_name: spenap
+repo_description: >-
+  Apps by Simon Pena, signed with the author's key: the same APKs as each
+  app's GitHub Releases. Source, and how to check a release, are linked
+  from each app.
+
+# Versions kept in the main repo; older ones go to the archive
+archive_older: 3
+archive_url: https://spenap.github.io/fdroid/archive
+archive_name: spenap archive
+archive_description: Older versions of the apps in the spenap repo.
+
+sdk_path: $ANDROID_HOME
+
+# The key that signs the index stays off the repo, like the apps' release key
+repo_keyalias: spenap-fdroid
+keystore: /home/spena/.config/fdroid-repo/keystore.p12
+keystorepass: {env: FDROID_KEY_PASS}
+keypass: {env: FDROID_KEY_PASS}
+keydname: CN=spenap-fdroid, OU=F-Droid

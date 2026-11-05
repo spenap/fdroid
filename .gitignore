@@ -1,0 +1,10 @@
+# Keys and passwords never go in the repo
+*.p12
+*.jks
+*.keystore
+*.pass
+# fdroid's working files
+tmp/
+.fdroid.*
+# fdroid run logs: local paths and tool versions
+repo/status/
