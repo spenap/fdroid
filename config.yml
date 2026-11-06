@@ -2,17 +2,17 @@
 # https://gitlab.com/fdroid/fdroidserver/-/blob/master/examples/config.yml
 
 repo_url: https://spenap.github.io/fdroid/repo
-repo_name: spenap
+repo_name: Simon Pena's Android Apps
 repo_description: >-
-  Apps by Simon Pena, signed with the author's key: the same APKs as each
-  app's GitHub Releases. Source, and how to check a release, are linked
-  from each app.
+  My Android apps: the same APKs as each app's GitHub Releases, signed
+  with the same key. Source, and how to check a release, are linked from
+  each app.
 
 # Versions kept in the main repo; older ones go to the archive
 archive_older: 3
 archive_url: https://spenap.github.io/fdroid/archive
-archive_name: spenap archive
-archive_description: Older versions of the apps in the spenap repo.
+archive_name: Simon Pena's Android Apps archive
+archive_description: Older versions of the apps in the repo.
 
 sdk_path: $ANDROID_HOME
 
