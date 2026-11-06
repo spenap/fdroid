@@ -1,0 +1,7 @@
+Comparte unha mensaxe de voz desde WhatsApp, Telegram ou calquera aplicación con Unmuffle e transcríbea no teu teléfono con whisper.cpp. As palabras aparecen a medida que se transcriben, baixo un reprodutor do audio; márcanse as palabras das que Whisper non está seguro. Copia ou comparte a transcrición, ou volve transcribila noutro idioma.
+
+O audio e as transcricións quedan no teléfono. O único permiso é Internet, que se usa unha vez para descargar o modelo Whisper (con licenza MIT) desde Hugging Face e comprobalo; tamén podes escoller un modelo descargado previamente.
+
+Escrita con IA: Claude Code escribe o código baixo a dirección do autor, e próbase nos seus teléfonos. Cada versión pódese recompilar desde a súa etiqueta e comparar: consulta o código fonte.
+
+En galego, español e inglés.

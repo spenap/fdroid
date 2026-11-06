@@ -6,12 +6,3 @@ WebSite: https://github.com/spenap/unmuffle
 SourceCode: https://github.com/spenap/unmuffle
 IssueTracker: https://github.com/spenap/unmuffle/issues
 Changelog: https://github.com/spenap/unmuffle/releases
-
-Name: Unmuffle
-Summary: Read your voice messages, transcribed on your phone
-Description: |-
-  Share a voice message from WhatsApp, Telegram or any app to Unmuffle, and it transcribes it on your phone with whisper.cpp. Words appear as they are transcribed, under a player for the audio; words Whisper is unsure of are marked. Copy or share the transcript, or transcribe it again in another language.
-
-  Audio and transcripts stay on the phone. The only permission is Internet, used once to download the Whisper model (MIT licensed) from Hugging Face and check it; you can also pick a model file instead.
-
-  Written with AI: Claude Code writes the code, under the author's direction, and it is tested on the author's phones. Each release can be rebuilt from its tag and compared: see the source.
