@@ -1,9 +1,9 @@
-# spenap F-Droid repository
+# Simon Pena's F-Droid repository
 
-Apps by Simon Pena, for F-Droid and compatible clients (Droid-ify, Neo
-Store). The APKs are the same ones published in each app's GitHub
-Releases, signed with the same key, so installs from either source update
-each other.
+My Android apps, for F-Droid and compatible clients. The APKs are the
+same ones already published in each app's GitHub Releases, signed with
+the same key, so installs from either source update each other without
+data loss.
 
 ## Add it
 In your client: Repositories › Add, then paste
@@ -16,8 +16,8 @@ or open https://spenap.github.io/fdroid/repo on the phone and scan the QR
 code. The fingerprint is the key that signs this repository's index.
 
 ## Apps
-- [Unmuffle](https://github.com/spenap/unmuffle): read your voice
-  messages, transcribed on your phone.
+- [Unmuffle](https://github.com/spenap/unmuffle): on-device transcription
+  of voice messages.
 
 Each app's releases can be rebuilt from source and compared; see its
 README.
