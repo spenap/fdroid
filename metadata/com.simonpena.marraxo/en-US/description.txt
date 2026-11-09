@@ -1,0 +1,5 @@
+Marraxo plays the music stored on your phone. No account, no Internet, no tracking. Browse your collection by album and artist, read liner notes and lyrics, and keep your play history on the device.
+
+It plays locally through headphones or Bluetooth, or to UPnP devices on your Wi-Fi, such as Sonos speakers and TVs. Runs on Android 8.1 and newer.
+
+Written with AI: Claude Code writes the code, under the author's direction, and it is tested on the author's phones. Each release can be rebuilt from its tag and compared: see the source.

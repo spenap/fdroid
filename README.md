@@ -16,6 +16,8 @@ or open https://spenap.github.io/fdroid/repo on the phone and scan the QR
 code. The fingerprint is the key that signs this repository's index.
 
 ## Apps
+- [Marraxo](https://github.com/spenap/marraxo): offline music player for
+  your own collection, with playback to speakers and TVs.
 - [Unmuffle](https://github.com/spenap/unmuffle): on-device transcription
   of voice messages.
 

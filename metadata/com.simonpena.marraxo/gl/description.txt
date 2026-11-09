@@ -1,0 +1,7 @@
+Marraxo reproduce a música gardada no teu teléfono. Sen contas, sen Internet e sen seguimento. Percorre a túa colección por álbum e artista, le as notas do disco e as letras, e garda o teu historial de reprodución no dispositivo.
+
+Reproduce localmente por auriculares ou Bluetooth, ou en dispositivos UPnP da túa wifi, como altofalantes Sonos e televisores. Funciona en Android 8.1 e superior.
+
+Escrito con IA: Claude Code escribe o código baixo a dirección do autor, e próbase nos seus teléfonos. Cada versión pódese recompilar desde a súa etiqueta e comparar: consulta o código fonte.
+
+En galego, español e inglés.
